@@ -1,6 +1,6 @@
 # Mac Location 
 
-/Users/omarmenawi/Library/Application Support
+/Users/userprofilename/Library/Application Support/espanso
 
 
 
