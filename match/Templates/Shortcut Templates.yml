@@ -1,0 +1,109 @@
+matches:
+  # https://espanso.org/docs/matches/forms/
+
+  # 🚨 DO NOT USE TABS !!!!! USE SPACES ONLY !!!!
+  # 🚨 PAY CLOSE ATTENTION TO THE EXACT SPACING OF EACH ELEMENT AND TO THE SPELLING AND ORDER OF EVERY ELEMENT AND WORD
+
+# 📌CLIPBOARD'
+
+  - trigger: "/cp/"
+    replace: "  replace: '{{clipboard}}' "
+    vars:
+      - name: "clipboard"
+        type: "clipboard"
+
+  # 📌 TRIGGERS / REPLACE
+# 8 spaces for - triggers (6 for dash ; 8 for trigger)
+# 10 spaces for replace
+# NAH DOESNT WORK📌 Apparently works with tab then apply sc
+  # - triggers: [/sc/, /SC/]
+  #   form:   |
+  #     - triggers: [ [[t]] ] 
+  #       replace: ""
+
+
+  # 📌CHOICE FORM
+  # - triggers: [/fc/, /form/choose/]
+  #   replace: |
+  #     - triggers: [ $|$ ]
+  #       form: |
+  #         [[choices]]
+  #       form_fields:  
+  #       choices: 
+  #         type: choice
+  #         values:
+  #           - first 
+  #           - second
+
+
+# 📌WORD 
+  - triggers: [/wd/, /WD/]
+    replace: >
+      - triggers: [ $|$ ] 
+        replace: ' '
+      word: true
+
+
+# 📌WORD CAPITAL
+  - triggers: [/wc/, /WC/]
+    replace: >
+      - triggers: [  ]
+        replace: ' '
+      propagate_case: true
+
+      word: true
+
+# 📌UPPERCASE STYLE
+  - triggers: [/uc/, /UC/]
+    replace: >
+      - triggers: [$|$]
+          replace: "ordinary least squares"
+          uppercase_style: "capitalize_words"
+          propagate_case: true
+
+# - trigger: ":form"
+#   replace: "Hey {{form1.name}}, how are you? Do you like {{form1.fruit}}?"
+#   vars:
+#     - name: "form1"
+#       type: form
+#       params:
+#         layout: "Name: [[name]] \nFruit: [[fruit]]"
+#         fields:
+#           name:
+#             multiline: true
+#           fruit:
+#             type: list # or `choice`
+#             values:
+#               - Apples
+#               - Bananas
+#               - Oranges
+#               - Peaches
+
+  # - trigger: ":form"
+  #   replace: "Hey {{form1.name}}, how are you? Do you like {{form1.fruit}}?"
+  #   vars:
+  #     - name: "form1"
+  #       type: form
+  #       params:
+  #         layout: "Name: [[name]] \nFruit: [[fruit]]"
+  #         fields:
+  #           name:
+  #             multiline: true
+  #           fruit:
+  #             type: list # or `choice`
+  #             values:
+  #               - Apples
+  #               - Bananas
+  #               - Oranges
+  #               - Peaches
+
+
+
+  - trigger: ":form"
+    replace: "Hey {{form1.name}}, how are you?"
+    vars:
+      - name: "form1"
+        type: form
+        params:
+          layout: "Hey [[name]], how are you?"
+

@@ -1,0 +1,31 @@
+# https://hub.espanso.org/medical-docs
+
+#  It should be indented by two spaces or a single tab character. Here's how the YAML file should look with proper indentation:
+
+matches:
+  - trigger: ":delay:"
+    form: |
+    
+      Hello [[customerName]],
+
+      I hope this email finds you well. I am writing to update you on the status of your recent order with our company. Unfortunately, we are experiencing a delay in shipping your order due to unforeseen circumstances.
+
+      Your order is expected to arrive on [[date]]. 
+
+      We apologize for any inconvenience this may cause and we thank you for your understanding.
+
+
+  # - triggers: []
+  #   form: |
+  #     Sample text [[insert variable]],
+
+  #     Text 2 , variable
+
+  - trigger: ";clip"
+    replace: "{{clipboard}}"
+    vars:
+      - name: "clipboard"
+        type: "clipboard"
+
+
+  

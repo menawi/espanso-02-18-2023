@@ -1,0 +1,20 @@
+matches:
+
+# notice missing curly bracket in end because editor auto-fiills it
+#   - trigger: "func"
+#     replace: "function addNum () {
+
+# {{addNum.return}} + {{addNum.a}}
+
+#  "
+#     vars:
+#       - name: "addNum"
+#         type: form
+#         params:
+#           layout: "return: [[return]] \a: [[a]]"
+#           fields:
+#             name:
+#               multiline: true
+
+
+

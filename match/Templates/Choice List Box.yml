@@ -1,0 +1,853 @@
+matches:
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+
+  - trigger: ":form"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - First choice
+          - Second choice
+

@@ -1,0 +1,419 @@
+# Form Template.yml
+
+matches:
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     Happy Birthday!
+

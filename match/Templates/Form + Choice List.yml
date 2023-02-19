@@ -1,0 +1,21 @@
+matches:
+
+
+  # - trigger: ":form"
+  #   replace: "Hey {{form1.name}}, how are you? Do you like {{form1.fruit}}?"
+  #   vars:
+  #     - name: "form1"
+  #       type: form
+  #       params:
+  #         layout: "Name: [[name]] \nFruit: [[fruit]]"
+  #         fields:
+  #           name:
+  #             multiline: true
+  #           fruit:
+  #             type: list # or `choice`
+  #             values:
+  #               - Apples
+  #               - Bananas
+  #               - Oranges
+  #               - Peaches
+

@@ -1,0 +1,625 @@
+matches:
+
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+  # - trigger: ":greet"
+  #   form: |
+  #     Hey [[name]],
+  #     [[text]]
+  #     Happy Birthday!
+  #   form_fields:
+  #     text:
+  #       multiline: true
+
+
